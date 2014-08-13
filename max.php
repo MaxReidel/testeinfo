@@ -1,3 +1,5 @@
 <?php
 
-echo "THOIS X THOIS!";
+echo "Testandoooo!";
+echo "<br>";
+echo "Mais um teste!";
